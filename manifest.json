@@ -1,0 +1,21 @@
+{
+  name কিছুক্ষণ ক্যাফে ড্যাশবোর্ড,
+  short_name ক্যাফে ড্যাশবোর্ড,
+  start_url dashboard.html,
+  display standalone,
+  background_color #F5F5F0,
+  theme_color #8A9A5B,
+  orientation portrait-primary,
+  icons [
+    {
+      src icon-192.png,
+      type imagepng,
+      sizes 192x192
+    },
+    {
+      src icon-512.png,
+      type imagepng,
+      sizes 512x512
+    }
+  ]
+}
